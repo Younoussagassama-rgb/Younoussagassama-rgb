@@ -35,5 +35,5 @@
 
 ## 📫 Connect
 
-- LinkedIn: [your-profile-link](#)
+- LinkedIn: https://www.linkedin.com/in/younoussa-gassama-b582252a5?utm_source=share_via&utm_content=profile&utm_medium=member_android](#)
 - Feel free to explore my projects and see the work I've put into improving security operations and processes!
